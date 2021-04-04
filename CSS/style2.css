@@ -1,0 +1,27 @@
+header{
+
+    background-color: rgb(71, 5, 77);
+    height: 100px;
+    width: 100%;
+   text-align:center;
+   padding-top: 10px;
+   color: rgb(189, 205, 228);
+    
+}
+body main p {
+    background-color: rgb(163, 169, 173);
+    text-align:center;
+    color: rgb(56, 67, 82);
+    font-size: larger;
+    height: 100px;
+    width: 100%;
+}
+img{
+    height: 50%;
+    width: 100%;
+    
+}
+body main {
+    background-color: rgb(163, 169, 173);
+}
+
